@@ -1,0 +1,81 @@
+
+# Licença Exclusiva e Rígida de Uso e Distribuição do Software "Cadastro de Pessoa Virtual" (CPV) - Licença Jurisprudente CPV (LJCPV)
+
+**Esta Licença Exclusiva e Rígida de Uso, Modificação e Distribuição do Software**, doravante denominada **"Licença Jurisprudente CPV" (LJCPV)**, é um acordo legalmente vinculativo entre o Licenciante, **Izatoth**, titular dos direitos autorais e outros direitos relacionados ao Software denominado **Cadastro de Pessoa Virtual (CPV)**, e o Licenciado, seja ele uma pessoa física ou jurídica, que adquire ou utiliza o Software. Ao aceitar os termos desta Licença ou ao fazer uso do Software, o Licenciado concorda e aceita integralmente todas as disposições aqui descritas, sem exceção, estando sujeito às cláusulas e condições estabelecidas pela presente Licença.
+
+## 1. Definições
+
+Para os efeitos da presente Licença, os seguintes termos possuem os significados especificados abaixo:
+
+- **"Licenciado"**: Pessoa física ou jurídica que tenha acesso, faça uso ou distribua o Software, de acordo com os termos desta Licença.
+- **"Licenciante"**: **Izatoth**, o proprietário e titular exclusivo dos direitos de propriedade intelectual relacionados ao Software CPV, ou qualquer outra entidade que venha a detê-los no futuro.
+- **"Software"**: Refere-se ao conjunto de arquivos, códigos-fonte, binários, documentação técnica, materiais auxiliares, atualizações e versões modificadas do sistema **Cadastro de Pessoa Virtual (CPV)**, incluindo qualquer versão futura ou derivada, independentemente do formato ou meio de distribuição.
+- **"Propriedade Intelectual"**: Refere-se a todos os direitos, títulos e interesses, incluindo, mas não se limitando a, direitos autorais, patentes, marcas registradas, segredos comerciais e outros direitos relacionados ao Software.
+  
+## 2. Concessão de Licença
+
+O Licenciante concede ao Licenciado, com caráter **não exclusivo, intransferível, não sublicenciável e revogável**, uma licença limitada e restrita para usar o Software exclusivamente de acordo com os termos e condições estabelecidos na presente Licença. O Licenciado não adquire nenhum direito de propriedade sobre o Software, exceto pelos direitos expressamente concedidos por meio desta Licença.
+
+### 2.1. Escopo da Licença
+
+A licença concedida permite ao Licenciado:
+
+- **Uso do Software**: O Licenciado está autorizado a usar o Software para fins pessoais, educacionais e comerciais, desde que o uso esteja em conformidade com as disposições desta Licença, e que não infrinja a integridade do Software ou os direitos do Licenciante.
+- **Modificação**: O Licenciado pode modificar, adaptar ou criar trabalhos derivados do Software exclusivamente para fins pessoais, educacionais ou comerciais internos, **desde que as modificações sejam submetidas ao Licenciante para revisão e aprovação prévia**.
+- **Distribuição**: O Licenciado pode distribuir o Software modificado, **contanto que siga as disposições desta Licença**, incluindo a obrigação de fornecer a integralidade da Licença junto com qualquer distribuição do Software modificado. A distribuição do Software original ou modificado só poderá ocorrer mediante a inclusão da declaração de direitos autorais do Licenciante e a notificação de todas as modificações realizadas.
+
+## 3. Restrição de Direitos
+
+### 3.1. Restrições de Modificação e Distribuição
+
+O Licenciado não poderá, em hipótese alguma:
+
+- Redistribuir ou sublicenciar o Software original sem o consentimento explícito e por escrito do Licenciante.
+- Utilizar o Software ou qualquer parte dele de maneira que infrinja direitos autorais, marcas registradas ou outros direitos de propriedade intelectual pertencentes ao Licenciante.
+- Copiar, modificar, ou criar derivados do Software sem a autorização expressa do Licenciante para distribuição pública ou comercial, exceto conforme estabelecido nesta Licença.
+- Utilizar o nome **"Cadastro de Pessoa Virtual"** ou qualquer designação semelhante para qualquer projeto, produto ou serviço sem a expressa permissão do Licenciante.
+  
+### 3.2. Proibição de Uso em Concorrência
+
+O Licenciado **não pode utilizar o Software em concorrência direta** com os produtos ou serviços fornecidos pelo Licenciante, nem em atividades que possam prejudicar o mercado ou reputação do Licenciante, **sem o consentimento formal e prévio do Licenciante**.
+
+## 4. Propriedade Intelectual
+
+O Licenciado reconhece que:
+
+- Todos os direitos de propriedade intelectual relativos ao Software, incluindo, mas não se limitando a, direitos autorais, marcas registradas, patentes, segredos comerciais e outros direitos relacionados, são de titularidade exclusiva do Licenciante ou de seus licenciadores.
+- A presente Licença **não concede ao Licenciado qualquer direito sobre a Propriedade Intelectual do Software**, exceto os direitos limitados de uso, conforme estabelecido nos termos da Licença.
+- O Licenciado não deverá, em nenhum caso, contestar ou infringir os direitos de propriedade intelectual do Licenciante ou tentar registrar qualquer parte do Software como sua própria propriedade intelectual.
+
+## 5. Contribuições e Modificações
+
+Qualquer contribuição do Licenciado para o Software, incluindo, mas não se limitando a, modificações, melhorias, correções de erros ou adições, será considerada uma contribuição **sob esta Licença e com a mesma titularidade do Licenciante**. Ao submeter qualquer contribuição, o Licenciado concede ao Licenciante o direito irrevogável de incorporar essas contribuições no Software, sem restrições, e sem compensação adicional.
+
+### 5.1. Direitos sobre Contribuições
+
+- O Licenciado concorda que todas as contribuições feitas ao Software serão automaticamente licenciadas sob os termos da Licença Jurisprudente CPV (LJCPV), sem limitações, e passíveis de modificação, redistribuição e comercialização sob os mesmos termos da Licença original.
+
+## 6. Garantias e Isenções de Responsabilidade
+
+- **Ausência de Garantias**: O Software é fornecido "no estado em que se encontra" e o Licenciante não oferece **qualquer garantia expressa ou implícita**, incluindo, mas não se limitando a, garantias de comercialização, adequação a um propósito específico ou não infração de direitos de propriedade intelectual.
+- **Limitação de Responsabilidade**: O Licenciante **não será responsável** por qualquer perda de dados, lucros cessantes, danos diretos ou indiretos, incidentais, especiais ou consequenciais, resultantes do uso ou da incapacidade de uso do Software, mesmo que o Licenciante tenha sido avisado da possibilidade de tais danos.
+
+## 7. Termos de Terminação da Licença
+
+A Licença será automaticamente rescindida se o Licenciado violar qualquer uma das cláusulas e condições estabelecidas nesta Licença. **No caso de rescisão**, o Licenciado deverá:
+
+- **Cessar o uso** do Software imediatamente.
+- **Destruir** todas as cópias do Software, tanto em formato físico quanto digital, que estejam em posse do Licenciado.
+
+## 8. Jurisdição e Foro
+
+A presente Licença será regida pelas leis do **Brasil**, e qualquer disputa decorrente desta Licença será resolvida nos **tribunais competentes** da cidade de **São Paulo**, Estado de São Paulo, renunciando o Licenciado a qualquer outro foro.
+
+## 9. Alterações e Revisões
+
+O Licenciante se reserva o direito de alterar, modificar, suspender ou encerrar esta Licença a qualquer momento, mediante notificação ao Licenciado. As versões modificadas da Licença serão publicadas no repositório oficial do Software.
+
+## 10. Disposições Gerais
+
+- **Transferência e Cessão**: O Licenciado não pode transferir ou ceder os direitos e obrigações desta Licença a terceiros, sem o consentimento prévio e por escrito do Licenciante.
+- **Acordo Completo**: Esta Licença constitui o acordo completo entre as partes com relação ao Software, substituindo todas as negociações, acordos e compromissos anteriores.
